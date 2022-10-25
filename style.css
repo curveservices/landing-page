@@ -1,0 +1,136 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.header,
+.footer {
+    background-color: #1f2937;   
+    padding: 16px;
+}
+
+.footer {
+    color: #e5e7eb;
+    text-align: center;
+    margin: 16px 0px;
+    padding: 16px;
+
+}
+
+.main {
+    font-size: 48px;
+    color: #f9faf8;
+}
+
+.container {
+    display:flex;
+    margin-bottom: 150px;
+    padding: 8px;
+    gap: 24px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.secondary,
+.links {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 0 100px 0;
+    padding: 0;
+}
+
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-weight: 900;
+    margin: 24px 0;
+    padding: 8px;
+    width: 100px;
+    border-color: whitesmoke;
+    border-style: none;
+    border-radius: 10px;
+}
+
+.links {
+    display: flex;
+    list-style: none;
+    gap: 48px;
+    margin: 0;
+}
+
+.title {
+    font-size: 32px;
+    font-weight: 900;
+    margin: 32px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.team-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 200px;
+    gap: 52px;
+}
+
+.text {
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    margin: 8px;
+    padding: 8px;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin: 56px 0;
+    padding: 100px;
+}
+
+.author {
+    font-size: 18px;
+    font-weight: 900;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.action {
+    background-color: #3882f6;
+    border-radius: 10px;
+    color: #e5e7eb;
+    margin: 100px;
+    padding: 28px 52px;
+    gap: 16px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+ .heading {
+    font-size: 24px;
+    gap: 8px;
+ }
+ .text2 {
+     font-size: 18px;
+     font-weight: lighter;
+ }
+.signup {
+    border-style: solid;
+}
