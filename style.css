@@ -3,6 +3,14 @@ body {
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+a:hover {
+    color: #3882f6;
+}
+
 .header,
 .footer {
     background-color: #1f2937;   
@@ -60,7 +68,8 @@ button {
 }
 
 .links {
-    display: flex;
+    display: Flex;
+    justify-content: space-around;
     list-style: none;
     gap: 48px;
     margin: 0;
