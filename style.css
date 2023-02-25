@@ -61,10 +61,15 @@ button {
     font-weight: 900;
     margin: 24px 0;
     padding: 8px;
-    width: 100px;
+    width: 8rem;
     border-color: whitesmoke;
     border-style: none;
     border-radius: 10px;
+}
+
+button:active {
+    box-shadow: inset 2px 2px 2px 0px #515151;
+    background: #0b64f4;
 }
 
 .links {
