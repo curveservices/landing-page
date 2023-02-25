@@ -2,7 +2,7 @@
 
 ## A basic Landing Page Mock-up
 
-Live Demo: <a href="">Landing Page</a>
+Live Demo: <a href="https://curveservices.github.io/landing-page/">Landing Page</a>
 
 <img width="1138" alt="landing-page" src="https://user-images.githubusercontent.com/101556296/221354906-06b3af0a-e21b-4af1-9d8e-5ae2935886de.png">
 
